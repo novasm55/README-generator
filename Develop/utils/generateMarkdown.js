@@ -23,9 +23,10 @@ function renderLicenseSection(license) {
     return '';
   }
   else return `
+  
   ${renderLicenseBadge(license)}
 
-  This project was created under the ${license} license and ${data.username} possesses all the rights and privileges this license confers on its possessor!`;
+  This project was created under the ${license} license and the creator retains all the rights and privileges this license confers on its possessor!`;
 }
 
 // TODO: Create a function to generate markdown for README
