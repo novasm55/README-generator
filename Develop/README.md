@@ -17,7 +17,7 @@
 
 Makes generating a README easy by following a series of command line prompts
 
-![Video]()
+![Video](https://github.com/novasm55/README-generator/blob/788f7109b4a1f46bff5c22b32b0745e0097d0636/MINGW6~1.MP4)
 
 ## Installation
 
