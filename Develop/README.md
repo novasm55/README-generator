@@ -6,9 +6,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-
-* [License](#license)
-
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -23,7 +20,7 @@ Makes generating a README easy by following a series of command line prompts
 
 Installation instructions:
 
-Clone starter code repo into local folder, cd into local folder, npm init -y, npm i inquirer 8.2.4, then run "node index.js", all in the CLI
+From terminal, CD into local folder, npm init -y, npm i inquirer 8.2.4, then run "node index.js"
 
 ## Usage
 
