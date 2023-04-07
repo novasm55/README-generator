@@ -13,7 +13,7 @@ function renderLicenseLink(license) {
   if (!license){
     return '';
   }
-  else return '\n* [License](#license)\n'
+  else return '* [License](#license)'
 }
 
 // TODO: Create a function that returns the license section of README
@@ -38,7 +38,6 @@ function generateMarkdown(data) {
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 ${renderLicenseLink(data.license)}
 * [Contributing](#contributing)
 * [Tests](#tests)
